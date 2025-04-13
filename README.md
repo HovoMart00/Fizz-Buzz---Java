@@ -1,4 +1,4 @@
-# Fizz-Buzz---Java
+# FizzBuzz-Java
 A classic programming challenge often used in technical interviews. This program prints numbers from 1 to 100 with the following rules:
 
 - Multiples of 3 → "Fizz"
